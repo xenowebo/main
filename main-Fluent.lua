@@ -30,7 +30,7 @@ local window = Fluent:CreateWindow({
     MinimizeKey = Enum.KeyCode.LeftControl,
 })
 
-local baseUrl = "https://raw.githubusercontent.com/xenowebo/Rayfield/refs/heads/main/"
+local baseUrl = "https://raw.githubusercontent.com/xenowebo/lua/refs/heads/main/"
 
 local function addScriptButton(tab, title, url)
     tab:AddButton({
