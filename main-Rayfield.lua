@@ -35,7 +35,7 @@ local tab = window:CreateTab({
 tab:CreateButton({
     name = "Xen0's FE Script",
     callback = function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/xenowebo/Rayfield/refs/heads/Xen0FE.lua"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/xenowebo/lua/refs/heads/Xen0FE.lua"))()
     end,
 })
 
@@ -49,28 +49,28 @@ tab:CreateButton({
 tab:CreateButton({
     name = "Xen0's Remote Spy",
     callback = function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/xenowebo/Rayfield/refs/heads/Xen0RemoteSpy.lua"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/xenowebo/lua/refs/heads/Xen0RemoteSpy.lua"))()
     end,
 })
 
 tab:CreateButton({
     name = "Xen0's OG Fly GUI",
     callback = function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/xenowebo/Rayfield/refs/heads/Xen0FlyGUI.lua"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/xenowebo/lua/refs/heads/Xen0FlyGUI.lua"))()
     end,
 })
 
 tab:CreateButton({
     name = "Xen0's FPS Counter",
     callback = function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/xenowebo/Rayfield/refs/heads/Xen0FPS.lua"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/xenowebo/lua/refs/heads/Xen0FPS.lua"))()
     end,
 })
 
 tab:CreateButton({
     name = "Server Hop",
     callback = function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/xenowebo/Rayfield/refs/heads/Xen0ServerHop.lua"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/xenowebo/lua/refs/heads/Xen0ServerHop.lua"))()
     end,
 })
 
@@ -82,35 +82,35 @@ local tab = window:CreateTab({
 tab:CreateButton({
     name = "Emote Wheel",
     callback = function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/xenowebo/Rayfield/refs/heads/Xen0EmoteWheel.lua"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/xenowebo/lua/refs/heads/Xen0EmoteWheel.lua"))()
     end,
 })
 
 tab:CreateButton({
     name = "FE Axirian Glitch",
     callback = function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/xenowebo/Rayfield/refs/heads/Xen0Axirian.lua"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/xenowebo/lua/refs/heads/Xen0Axirian.lua"))()
     end,
 })
 
 tab:CreateButton({
     name = "INVINCIBLE",
     callback = function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/xenowebo/Rayfield/refs/heads/Xen0INVINCIBLE.lua"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/xenowebo/lua/refs/heads/Xen0INVINCIBLE.lua"))()
     end,
 })
 
 tab:CreateButton({
     name = "JOHN DOE",
     callback = function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/xenowebo/Rayfield/refs/heads/Xen0JOHNDOE.lua"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/xenowebo/lua/refs/heads/Xen0JOHNDOE.lua"))()
     end,
 })
 
 tab:CreateButton({
     name = "Server Hop",
     callback = function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/xenowebo/Rayfield/refs/heads/Xen0ServerHop.lua"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/xenowebo/lua/refs/heads/Xen0ServerHop.lua"))()
     end,
 })
 
@@ -122,41 +122,41 @@ local tab = window:CreateTab({
 tab:CreateButton({
     name = "Find The Noobs (350)",
     callback = function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/xenowebo/Rayfield/refs/heads/Xen0FindTheNoobs.lua"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/xenowebo/lua/refs/heads/Xen0FindTheNoobs.lua"))()
     end,
 })
 
 tab:CreateButton({
     name = "Beat Obby For Noob",
     callback = function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/xenowebo/Rayfield/refs/heads/Xen0SpeedJumpGUI.lua"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/xenowebo/lua/refs/heads/Xen0SpeedJumpGUI.lua"))()
     end,
 })
 
 tab:CreateButton({
     name = "Orbitium NDS",
     callback = function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/xenowebo/Rayfield/refs/heads/Xen0ORBITIUM.lua"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/xenowebo/lua/refs/heads/Xen0ORBITIUM.lua"))()
     end,
 })
 
 tab:CreateButton({
     name = "Legends Of Speed",
     callback = function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/xenowebo/Rayfield/refs/heads/Xen0LegendsOfSpeed.lua"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/xenowebo/lua/refs/heads/Xen0LegendsOfSpeed.lua"))()
     end,
 })
 
 tab:CreateButton({
     name = "Ninja Legends",
     callback = function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/xenowebo/Rayfield/refs/heads/Xen0NinjaLegends.lua"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/xenowebo/lua/refs/heads/Xen0NinjaLegends.lua"))()
     end,
 })
 
 tab:CreateButton({
     name = "Arsenal",
     callback = function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/xenowebo/Rayfield/refs/heads/Xen0Arsenal.lua"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/xenowebo/lua/refs/heads/Xen0Arsenal.lua"))()
     end,
 })
