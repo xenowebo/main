@@ -4,7 +4,17 @@ local window = Rayfield:CreateWindow({
     name = "Xeno GUI",
     subtitle = "Speed Gravity Jump",
     sidebarLayout = true,
-    theme = "frost",
+    theme = {
+        TabColor = Color3.fromRGB(15, 15, 15),
+        TabBackground = ColorSequence.new(
+            Color3.fromRGB(255, 255, 255),
+            Color3.fromRGB(245, 245, 245)
+        ),
+        TabStroke = ColorSequence.new(
+            Color3.fromRGB(220, 220, 220),
+            Color3.fromRGB(190, 190, 190)
+        ),
+    },
 })
 
 local tab = window:CreateTab({ name = "Main", icon = 93364949241311 })
