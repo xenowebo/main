@@ -7,12 +7,12 @@ local window = Rayfield:CreateWindow({
     theme = {
         TabColor = Color3.fromRGB(15, 15, 15),
         TabBackground = ColorSequence.new(
-            Color3.fromRGB(255, 255, 255),
-            Color3.fromRGB(245, 245, 245)
+            Color3.fromRGB(238, 238, 238),
+            Color3.fromRGB(225, 225, 225)
         ),
         TabStroke = ColorSequence.new(
-            Color3.fromRGB(220, 220, 220),
-            Color3.fromRGB(190, 190, 190)
+            Color3.fromRGB(205, 205, 205),
+            Color3.fromRGB(185, 185, 185)
         ),
     },
 })
