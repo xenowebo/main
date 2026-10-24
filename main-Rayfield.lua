@@ -170,3 +170,10 @@ tab:CreateButton({
         loadstring(game:HttpGet("https://raw.githubusercontent.com/xenowebo/lua/main/Xen0Arsenal.lua"))()
     end,
 })
+
+tab:CreateButton({
+    name = "NO Limit Strongest Punch Simulator",
+    callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/xenowebo/lua/main/Xen0NoLimitSPS.lua"))()
+    end,
+})
