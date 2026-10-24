@@ -102,3 +102,7 @@ end)
 Section:NewButton("Arsenal", "", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/xenowebo/lua/main/Xen0Arsenal.lua"))()
 end)
+
+Section:NewButton("NO LIMIT Strongest Punch Simulator", "", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/xenowebo/lua/main/Xen0NoLimitSPS.lua"))()
+end)
